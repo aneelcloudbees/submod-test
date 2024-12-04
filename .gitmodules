@@ -1,6 +1,6 @@
 [submodule "git"]
-	path = git
-	url = git@github.com:aneelcloudbees/git-test.git
+    path = git
+    url = https://github.com/aneelcloudbees/git-test.git
 [submodule "webhook"]
-	path = webhook
-	url = git@github.com:aneelcloudbees/webhook-test.git
+    path = webhook
+    url = https://github.com/aneelcloudbees/webhook-test.git
